@@ -7,4 +7,6 @@ else:
 
 print ("finn")
 
-exp
+if 1>2:
+    print("hola")
+    
